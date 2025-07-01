@@ -1,2 +1,2 @@
-
-print("Hello world")
+printf("Enter a Number")
+printf("Hello Umer Binod hai")
